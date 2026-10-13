@@ -1,19 +1,19 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tkabala/kropka/releases/download/v0.1.3/kropka_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/tkabala/kropka/releases/download/v0.1.4/kropka_0.1.4_windows_amd64.zip",
             "bin": [
                 "kropka.exe"
             ],
-            "hash": "4eb54b8b5af8b4476df451db0f80bd3797bbca3ed1fb950e8b118ea0a0e223e4"
+            "hash": "fb0eaa75804ad7697c7cc7bf19ace215a2e0b0e96c6610543f12381e0f1c3b38"
         },
         "arm64": {
-            "url": "https://github.com/tkabala/kropka/releases/download/v0.1.3/kropka_0.1.3_windows_arm64.zip",
+            "url": "https://github.com/tkabala/kropka/releases/download/v0.1.4/kropka_0.1.4_windows_arm64.zip",
             "bin": [
                 "kropka.exe"
             ],
-            "hash": "f89175020fc6a672de370cfbea55693323a17491eb00b8176047452a5f1c46fa"
+            "hash": "a260d64093453feb3844960fca1e0791269225275df54b8c77bfe9a95f901ee5"
         }
     },
     "homepage": "https://github.com/tkabala/kropka",
