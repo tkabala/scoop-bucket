@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tkabala/kropka/releases/download/v0.1.2/kropka_0.1.2_windows_amd64.zip",
+            "bin": [
+                "kropka.exe"
+            ],
+            "hash": "900747d1f3ca74a19ef2fddfac55230f295c6bbfc2c699df212dd1e0f9e22f06"
+        },
+        "arm64": {
+            "url": "https://github.com/tkabala/kropka/releases/download/v0.1.2/kropka_0.1.2_windows_arm64.zip",
+            "bin": [
+                "kropka.exe"
+            ],
+            "hash": "b7b0777f3e0b35a8f58f4feae410ccede10ec1cff6e7a5eeff0a8c47b66f92d6"
+        }
+    },
+    "homepage": "https://github.com/tkabala/kropka",
+    "license": "MIT",
+    "description": "Serve . to your phone in one command"
+}
